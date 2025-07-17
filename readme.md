@@ -2,7 +2,7 @@
 ![alt text](horizontal-scrollbar-iamge.png)
 
 #3rd pro svg's- curve-lines
-![alt text](GTA-image.png)
+![alt text](curve-lines.png)
 
 #4th pro cursor effects- cursor-movement
 ![alt text](cursor-movement.png)
